@@ -7,64 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acf94006-72f0-493a-a36a-5eb4587fd1a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Munchies_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Munchies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/AbstractMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/PaginatedMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/BlockBreakListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/CraftItemListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/EatFoodListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/MenuHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/RightClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Menus/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Munchies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Runnable/EatRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/ItemBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/AbstractMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/AbstractMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MTab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/BlockBreakListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/BlockBreakListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/CraftItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/CraftItemListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/EatFoodListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/EatFoodListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/MenuHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/MenuHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/RightClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/RightClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Menus/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Menus/MainMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/CustomItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/CustomItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/Items.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Runnable/EatRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Runnable/EatRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/ItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/ItemBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/AbstractMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/BlockBreakListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/CraftItemListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/EatFoodListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/MenuHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/RightClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Menus/MainMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/CustomItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Runnable/EatRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/ItemBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/BlockBreakListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/events/BlockBreakListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/RightClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/events/RightClickListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/items/CustomItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/CustomItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/items/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Munchies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Munchies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/BlockBreakListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/CraftItemListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/EatFoodListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/InventoryClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/RightClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +104,7 @@
       <workItem from="1610490551853" duration="8370000" />
       <workItem from="1610499612144" duration="561000" />
       <workItem from="1610500175446" duration="368000" />
-      <workItem from="1610500564447" duration="1544000" />
+      <workItem from="1610500564447" duration="2267000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed a bunch of code. Removed unnecessary stuff &amp; overall optimized it.">
       <created>1610498083489</created>
