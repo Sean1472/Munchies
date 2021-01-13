@@ -6,7 +6,66 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acf94006-72f0-493a-a36a-5eb4587fd1a3" name="Default Changelist" comment="" />
+    <list default="true" id="acf94006-72f0-493a-a36a-5eb4587fd1a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Munchies_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Munchies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/AbstractMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/PaginatedMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/BlockBreakListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/CraftItemListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/EatFoodListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/MenuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/RightClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Menus/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Munchies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Runnable/EatRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/ItemBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/AbstractMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/AbstractMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Commands/MTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/BlockBreakListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/BlockBreakListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/CraftItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/CraftItemListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/EatFoodListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/EatFoodListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/MenuHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/MenuHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/RightClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Listeners/RightClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Menus/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Menus/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/CustomItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/CustomItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/OOP/Items.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Runnable/EatRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Runnable/EatRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/ItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/ItemBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Munchies/com/etho5/munchies/Utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/AbstractMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/AbstractMenu/PaginatedMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Commands/MTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/BlockBreakListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/CraftItemListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/EatFoodListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/MenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Listeners/RightClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Menus/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/CustomItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Runnable/EatRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/ItemBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/Utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/BlockBreakListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/events/BlockBreakListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/events/RightClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/events/RightClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/items/CustomItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/CustomItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/etho5/munchies/items/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/etho5/munchies/OOP/Items.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,13 +86,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1mzFbRe9sqxmRohnDsdl5xN5mn5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -41,14 +111,17 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ plugin.yml" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Server/plugins" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,15 +130,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +152,9 @@
       <updated>1610488583789</updated>
       <workItem from="1610488585113" duration="1956000" />
       <workItem from="1610490551853" duration="8370000" />
+      <workItem from="1610499612144" duration="561000" />
+      <workItem from="1610500175446" duration="368000" />
+      <workItem from="1610500564447" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed a bunch of code. Removed unnecessary stuff &amp; overall optimized it.">
       <created>1610498083489</created>
@@ -124,9 +198,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fixed a bunch of code. Removed unnecessary stuff &amp; overall optimized it." />
     <option name="LAST_COMMIT_MESSAGE" value="Fixed a bunch of code. Removed unnecessary stuff &amp; overall optimized it." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

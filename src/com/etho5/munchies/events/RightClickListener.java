@@ -1,7 +1,6 @@
 package com.etho5.munchies.events;
 
-import com.etho5.munchies.items.CustomItem;
-import com.etho5.munchies.items.Items;
+import com.etho5.munchies.OOP.Items;
 import org.bukkit.Material;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
