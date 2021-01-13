@@ -1,0 +1,12 @@
+name: Munchies
+description: Munch on foods!
+main: com.etho5.munchies.Main
+version: 0.0.1-Alpha
+author: Ethos
+api-version: 1.13
+commands:
+  munchies:
+    description: Main command for Munchies
+    aliases:
+      - fooditems
+      - munch
